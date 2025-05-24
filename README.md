@@ -1,1 +1,1 @@
-# Rectangle-Jump
+Half-ass chrome dino game.
